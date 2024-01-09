@@ -9,3 +9,5 @@ Welcome to the Tic Tac Toe React App! This simple web application allows users t
 Before you begin, ensure you have the following prerequisites installed on your machine:
 
 - [Node.js](https://nodejs.org/)
+- [React.js](https://react.dev/)
+
